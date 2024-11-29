@@ -1,0 +1,41 @@
+# Gradle
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Kotlin
+*.class
+*.log
+out/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# OS files
+.DS_Store
+
+# Local environment files
+local.properties
+
+# Gradle wrapper files
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+# Other build system files
+gradle.properties
+
+# Project-specific files
+TipCalculator/
+
+# Dependency folders
+*.jar
+
