@@ -33,9 +33,6 @@ gradle-wrapper.properties
 # Other build system files
 gradle.properties
 
-# Project-specific files
-TipCalculator/
-
 # Dependency folders
 *.jar
 
